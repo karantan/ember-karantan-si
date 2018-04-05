@@ -1,3 +1,10 @@
 body {
   padding-top: 5rem;
 }
+
+div.pagination-links a.pagination-links-current {
+  color: #fff;
+  background-color: #337ab7;
+  padding: 0.5rem;
+  border-radius: 7px;
+}
