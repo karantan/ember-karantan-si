@@ -33,6 +33,10 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember test`
 * `ember test --server`
 
+To see the test coverage run with `COVERAGE=true` (ref: [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage#usage)):
+
+* `COVERAGE=true ember test`
+
 ### Linting
 
 * `npm run lint:js`
